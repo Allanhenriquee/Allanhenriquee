@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! 🤙
 
-<!--
-**Allanhenriquee/Allanhenriquee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Meu nome é Allan Henrique, sou desenvolvedor .NET desde 2019 👨‍💻
+* Formado em análise e desenvolvimento de sistemas e pós graduado em arquitetura de soluções em plataforma .NET 👨‍🎓
+* Sou focado em desenvolvimento back-end 😎
 
-Here are some ideas to get you started:
+### Acertei um pouco, errei muito.. aprendi bastante! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Allanhenriquee&theme=vue-dark&show_icons=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanhenriquee&layout=compact&theme=vue-dark"/>
+</div>
+
+## Redes sociais! :)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-henrique-b8b68a13b/)
+[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allanhenriquee_/)
+
+## Tecnologias
+
+<div>
+  <img align="center" alt="Allan-dotnetcore" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img align="center" alt="Allan-csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Allan-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+    <img align="center" alt="Allan-azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
+  <img align="center" alt="Allan-docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+</div>
