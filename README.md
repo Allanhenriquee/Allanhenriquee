@@ -1,8 +1,8 @@
 # Hi there! 🤙
 
 * Meu nome é Allan Henrique, sou desenvolvedor .NET desde 2019 👨‍💻
-* Formado em análise e desenvolvimento de sistemas e pós graduado em arquitetura de soluções em plataforma .NET 👨‍🎓
-* Sou focado em desenvolvimento back-end 😎
+* Sou formado em analise e desenvolvimento de sistemas e possuo um MBA em Arquitetura de Soluções em Plataforma .NET (C#) 👨‍🎓
+* Focado em desenvolvimento back-end 😎
 
 ### Acertei um pouco, errei muito.. aprendi bastante! 
 
