@@ -7,7 +7,7 @@
 ### Acertei um pouco, errei muito.. aprendi bastante! 
 
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Allanhenriquee&count_private=true&hide=issues,contribs&theme=vue-dark&show_icons=true"/>
+  <img height="140em" src="https://github-readme-stats-allans-projects-19e005b7.vercel.app//api?username=Allanhenriquee&hide=issues&theme=vue-dark&show_icons=true"/>
 </div>
 
 ## Redes sociais! :)
