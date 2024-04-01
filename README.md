@@ -4,11 +4,7 @@
 * Sou formado em analise e desenvolvimento de sistemas e possuo um MBA em Arquitetura de Soluções em Plataforma .NET (C#) 👨‍🎓
 * Focado em desenvolvimento back-end 😎
 
-### Acertei um pouco, errei muito.. aprendi bastante! 
-
-<div>
-  <img height="140em" src="https://github-readme-stats-allans-projects-19e005b7.vercel.app//api?username=Allanhenriquee&hide=issues&theme=github_dark_dimmed&show_icons=true"/>
-</div>
+## Acertei um pouco, errei muito.. aprendi bastante! 
 
 ## Redes sociais! :)
 
